@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Shhh | Responsive Landingpage |test</title>
+<title>Shhh | Responsive Landingpage</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <meta name="description" content="RCSL | Responsive coming soon Landingpage">
@@ -47,7 +47,7 @@
 
     <!--==============Logo=================-->
 
-    <h1>Demo</h1>
+    <h1>Demo-2</h1>
 
     <!--==============CAPTION=================-->
 
